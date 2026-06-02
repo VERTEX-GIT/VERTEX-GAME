@@ -12,4 +12,5 @@
   <span style="color:#3a86ff;">니케 지휘관 모재현</span>
   <span style="color:#8338ec;">니케 지휘관 모재현</span>
 </h1>
-  
+
+  정실은 아리스
