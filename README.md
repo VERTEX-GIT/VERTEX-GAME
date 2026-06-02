@@ -5,6 +5,7 @@
   <img src="src/img/kirara.jpg" alt="kirara" width="32%" style="margin: 0 4px;" />
 </div>
 <h2>내 아내임<h2>
+<h2>ㅇㅇ 니 아내해라<h2>
 
 # 방 비었음
     
