@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="src/img/buky.jpg" alt="buky" width="32%" style="margin: 0 4px;" />
+  <img src="src/img/jahoda.jpg" alt="jahoda" width="32%" style="margin: 0 4px;" />
+  <img src="src/img/kirara.jpg" alt="kirara" width="32%" style="margin: 0 4px;" />
+</div>
+
 # 방 비었음
     
 게임부 아무나 사용하세요.  
